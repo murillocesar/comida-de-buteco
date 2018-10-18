@@ -1,0 +1,85 @@
+body {
+    font-family:'lato' , sans-serif;
+    margin: 0;
+    padding: 10px;
+    background-color: beige;
+}
+ol, ul li{
+    list-style:none;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.menu li{
+    background-color: burlywood;
+    display:inline;
+    padding-left: 12px;
+}
+.menu{
+    background-color:beige;
+}
+.menu img{
+    width: 100px;
+}
+.estilo-imagem{
+    border: solid 2px black;
+    border-radius: 600px;
+    width: 100px;
+}
+.estilo-imagem2{
+    border: solid 4px black;
+    border-radius: 60px;
+    width: 150px;
+}
+.estilo-imagem3{
+    border: solid 4px black;
+    border-radius: 60px;
+    width: 150px;
+}
+.estilo-imagem4{
+    border: solid 4px black;
+    border-radius: 60px;
+    width: 150px;
+}
+.banner{
+    background-color:beige;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.banner2{
+    background-color: beige;
+}
+.banner3{
+    background-color: beige;
+}
+.banner4{
+    background-color: beige;
+}
+.banner h1{
+    font-family: fantasy;
+    font-size: 50px;
+    margin-top: 50px;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+}
+.banner h2{
+    font-family:fantasy;
+    font-size: 25px;
+    margin-left: 50px;
+    margin: 50px;
+    padding: 10px;
+    text-align: start;
+}
+.banner h3{
+    font-family:fantasy;
+    font-size: 25px;
+    margin-left: 50px;
+    margin: 50px;
+    padding: 10px;
+    text-align: start;
+}
+p{
+    color:black;
+}
